@@ -2,7 +2,7 @@
 
 ## Overview
 
-A beginner-level data analytics project using Python and Pandas to analyze sales data and identify revenue trends, product performance and regional patterns.
+A Data analytics project using Python and Pandas to analyze sales data and identify revenue trends, product performance and regional patterns.
 
 ## Objectives
 
